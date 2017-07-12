@@ -12,7 +12,7 @@ import javafx.stage.Stage;
 //Ref Liang 10th ed Listing 4.5
 //Shows a circle shape centered in the screen.
 //The important feature of this code is the **"binding"** of the Circle to the Screen's size
-//as the window/screen gets larger/smallerthe circle automatically re-centers itself within
+//as the window/screen gets larger/smaller the circle automatically re-centers itself within
 //the new screen size.
 
 
